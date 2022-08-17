@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CoolToolSDK"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "just testing."
   spec.description  = <<-DESC 
                           test 是一个用于保存一些常用工具类的工具
