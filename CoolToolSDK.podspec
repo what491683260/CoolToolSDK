@@ -22,4 +22,5 @@ Pod::Spec.new do |spec|
 
   spec.source_files  = "CoolToolSDK", "CoolToolSDK/CoolToolSDK/*.{h,m}"
   spec.module_name = 'CoolToolSDK'
+  spec.dependency 'MBProgressHUD'
 end
