@@ -1,0 +1,6 @@
+platform :ios, '9.0'
+use_frameworks!
+target 'CoolToolSDK' do
+pod 'MBProgressHUD'
+end 
+
