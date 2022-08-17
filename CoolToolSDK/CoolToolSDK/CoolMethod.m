@@ -9,6 +9,12 @@
 
 @implementation CoolMethod
 
+
++ (void)showNewMethod{
+    NSLog(@"12312312313");
+    
+}
+
 - (void)eatCat{
     NSLog(@"1sdklfjslkjdflksjfljflksdfjlk");
     
