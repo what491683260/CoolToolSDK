@@ -18,9 +18,9 @@ Pod::Spec.new do |spec|
   spec.license      = "MIT"
   spec.author             = { "lWX1158436" => "lengqinzhang@h-partners.com" }
   spec.platform     = :ios, "9.0"
-  spec.source       = { :git => "https://github.com/what491683260/RR_SDK.git", :tag => spec.version}
+  spec.source       = { :git => "https://github.com/what491683260/CoolToolSDK.git", :tag => spec.version}
 
-  spec.source_files  = "CoolToolSDK", "CoolToolSDK/CoolToolSDK/*.{h,m}"
+  spec.source_files  = "CoolToolSDK", "CoolToolSDK/*.{h,m}"
   spec.module_name = 'CoolToolSDK'
   spec.dependency 'MBProgressHUD'
 end
